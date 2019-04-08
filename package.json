@@ -1,0 +1,21 @@
+{
+  "name": "yogo-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "engines": {
+    "node": "11.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^6.6.0",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
